@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=F7C51D&center=true&vCenter=true&width=700&height=50&lines=%7C%7C+Kevin+Khemra+%7C%7C;Cyber+Security+%26+Full+Stack+Developer;Hacking+is+an+Art!;Break+It%2C+Fix+It%2C+Own+It!;Exploring+Deep+Web+%7C+AI+%7C+Automation...">
 </p>
 
-<!-- Profile Image with Pop-up Effect -->
+<!-- Profile Image with RGB Frame Effect -->
 <p align="center">
   <a href="https://github.com/KevinKhemra007">
-    <img src="https://github.com/KevinKhemra007.png" width="180" height="180" style="border-radius:50%; box-shadow: 0px 0px 15px cyan; transition: 0.3s;">
+    <img src="https://github.com/KevinKhemra007.png" width="180" height="180" style="border-radius:50%; box-shadow: 0px 0px 15px red, 0px 0px 25px blue, 0px 0px 35px green; transition: 0.3s;">
   </a>
 </p>
 
@@ -31,7 +31,6 @@
   <a href="https://t.me/hackisreal007"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white"></a>
   <a href="https://www.tiktok.com/@raatechofficial?_t=ZS-8ucGHt5Nr16&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"></a>
   <a href="YOUR_WEBSITE_LINK_HERE"><img src="https://img.shields.io/badge/My Website-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
-
 </p>
 
 ---
@@ -72,10 +71,10 @@
 
 ---
 
-<!-- Full Tech Stack -->
-<h2 align="center" style="color: violet;">🚀 Full Tech Stack</h2>
+<!-- Full Tech Stack Skills-->
+<h2 align="center" style="color: violet;">🚀 Full Tech Stack Skills</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,php,html,css,js,linux,git,github,vscode,wordpress,docker,nginx,apache,nodejs,react,mysql,mongodb,redis,aws,azure,flutter,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,php,html,css,js,linux,git,github,vscode,wordpress,docker,nginx,apache,nodejs,react,mysql,mongodb,redis,aws,azure,flutter,androidstudio,figma,go,typescript,kubernetes,graphql" />
 </p>
 
 ---
