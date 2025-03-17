@@ -30,7 +30,8 @@
   <a href="https://github.com/KevinKhemra007"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"></a>
   <a href="https://t.me/hackisreal007"><img src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white"></a>
   <a href="https://www.tiktok.com/@raatechofficial?_t=ZS-8ucGHt5Nr16&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"></a>
-  <a href="https://t.me/Nosecurity001"><img src="https://img.shields.io/badge/Telegram Group-%23FF0080.svg?&style=for-the-badge&logo=Telegram&logoColor=white"></a>
+  <a href="YOUR_WEBSITE_LINK_HERE"><img src="https://img.shields.io/badge/My Website-%23000000.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
+
 </p>
 
 ---
